@@ -1,235 +1,270 @@
-<h1 align="center">Mohammed Khafagy</h1>
+# Mohammed Khafagy
 
 <h3 align="center">
-Data Analyst • BI Developer • SQL Specialist • Data Warehouse Engineer
+Data Analyst • BI Developer • Data Warehouse Engineer
 </h3>
 
 <p align="center">
-Building End-to-End Data Solutions from Raw Data to Business Decisions
+📍 Damietta, Egypt &nbsp;|&nbsp;
+📧 mohammedkhafagy045@gmail.com &nbsp;|&nbsp;
+📱 +20 10 2739 2515
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-khafagy-7559aa272">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:mohammedkhafagy045@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mohammedkhafagy752000">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 About Me
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-
-</p>
-
----
-
-## 💡 About Me
-
-Data professional focused on designing and implementing end-to-end data solutions that transform raw operational data into reliable, decision-ready systems.
+Data professional focused on building end-to-end analytical systems that transform raw operational data into reliable business decisions.
 
 I specialize in:
 
-- SQL Server Data Warehousing
-- Python ETL / ELT Pipelines
-- Business Intelligence Solutions
+- Data Warehousing
+- SQL Analytics
+- ETL / ELT Development
+- Business Intelligence
+- Data Modeling
 - Analytics Engineering
-- Data Quality & Validation
-- Advanced SQL Analytics
+
+My work focuses on solving business problems through data architecture, automation, and insight generation rather than simply creating reports.
 
 ---
 
-## 📊 Professional Snapshot
+## 🛠 Technology Stack
 
-| Area | Expertise |
-|--------|------------|
-| 🏗 Data Warehousing | Star Schema, OLTP, OLAP |
-| 🐍 Data Engineering | Python ETL Pipelines |
-| 🗄 SQL Analytics | Window Functions, CTEs, PIVOT |
-| 📊 BI Development | Power BI, Streamlit |
-| 🧹 Data Quality | Validation & Cleaning |
-| 🤖 Forecasting | LSTM, CNN Models |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+</p>
 
 ---
 
-## 📈 Career Highlights
+## 🏆 Featured Projects
 
-✅ Built 3 End-to-End Analytics Solutions
-
-✅ Designed Multiple Star Schema Data Warehouses
-
-✅ Processed 70,000+ Transactions
-
-✅ Analyzed $12M+ Revenue Data
-
-✅ Built Real-Time Streamlit Dashboards
-
-✅ Active Master's Researcher in Time-Series Forecasting
-
----
-
-# 🚀 Featured Projects
-
-## 🥇 Logistics End-to-End Data Warehouse
-
-| Category | Details |
-|-----------|-----------|
-| Business Problem | 29.8% On-Time Delivery |
-| Root Cause | 183 Minutes Detention Time |
-| Opportunity | $2.52M |
-| Architecture | OLTP + Star Schema DW |
-| Technology | SQL Server, Power BI |
-
-### Dashboard Preview
+# 🥇 Logistics End-to-End Data Warehouse
 
 <p align="center">
 <img src="LOGISTIC DASHBOARD.png" width="1000">
 </p>
 
-<details>
-<summary>View Full Project Details</summary>
+### Business Impact
 
-PASTE YOUR CURRENT LOGISTICS PROJECT DESCRIPTION HERE
+✅ Identified operational bottleneck causing low delivery performance
+
+✅ Discovered average detention time of **183 minutes**
+
+✅ Quantified **$840K+ incident cost exposure**
+
+✅ Revealed significant regional revenue concentration
+
+### Technologies
+
+`SQL Server` `Data Warehouse` `Star Schema`
+`SCD Type 2`
+`ETL`
+`Window Functions`
+`PIVOT`
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+### Business Problem
+
+Only 29.8% of deliveries were completed on time versus an industry benchmark of 90%.
+
+### Solution
+
+Built:
+
+- OLTP database (14 tables)
+- Enterprise Data Warehouse
+- Star Schema
+- Historical Tracking (SCD Type 2)
+
+### Key Findings
+
+| Finding | Result |
+|----------|----------|
+| Detention Time | 183 Minutes |
+| Incident Cost | $840K+ |
+| Delivery Performance | 29.8% |
+| Profitability Ratio | 67% |
 
 </details>
 
 ---
 
-## 🥈 Walmart Retail Analytics
-
-| Category | Details |
-|-----------|-----------|
-| Revenue Analyzed | $1.21M |
-| Transactions | 9,969 |
-| Branches | 100 |
-| Dashboard Type | Real-Time Streamlit |
-| Tech Stack | Python + SQL Server |
-
-### Dashboard Preview
+# 🥈 Walmart Retail Analytics
 
 <p align="center">
 <img src="walmart_Dashboard.png" width="1000">
 </p>
 
-<details>
-<summary>View Full Project Details</summary>
+### Business Impact
 
-PASTE YOUR CURRENT WALMART PROJECT DESCRIPTION HERE
+✅ Identified peak transaction window
+
+✅ Enabled staffing optimization
+
+✅ Revealed payment behavior trends
+
+✅ Created real-time decision support dashboard
+
+### Technologies
+
+`Python`
+`SQL Server`
+`Streamlit`
+`Pandas`
+`Plotly`
+`SQLAlchemy`
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+### Business Problem
+
+100 branches lacked real-time performance visibility.
+
+### Solution
+
+Built:
+
+- Python ETL Pipeline
+- SQL Analytics Layer
+- Streamlit Dashboard
+- Real-Time Reporting System
+
+### Key Findings
+
+| Finding | Result |
+|----------|----------|
+| Peak Hours | 3–4 PM |
+| Transactions | 9,969 |
+| Revenue | $1.21M |
+| Preferred Payment | E-Wallet |
 
 </details>
 
 ---
 
-## 🥉 E-Commerce Business Intelligence
-
-| Category | Details |
-|-----------|-----------|
-| Revenue | $7.4M |
-| Orders | 54,000+ |
-| Architecture | Star Schema |
-| Dashboard | Power BI |
-| Focus | Category & Geographic Analytics |
-
-### Dashboard Preview
+# 🥉 E-Commerce Business Intelligence
 
 <p align="center">
 <img src="Ecommerce_dashboard.png" width="1000">
 </p>
 
-<details>
-<summary>View Full Project Details</summary>
+### Business Impact
 
-PASTE YOUR CURRENT E-COMMERCE PROJECT DESCRIPTION HERE
+✅ Identified top-performing product categories
+
+✅ Measured revenue concentration risk
+
+✅ Tracked growth performance
+
+✅ Built complete BI ecosystem
+
+### Technologies
+
+`SQL Server`
+`Power BI`
+`Data Warehouse`
+`ETL`
+`DAX`
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+### Business Problem
+
+54,000+ orders distributed across multiple CSV sources with no unified analytics layer.
+
+### Solution
+
+Built:
+
+- Star Schema Data Warehouse
+- ETL Pipeline
+- Power BI Dashboard
+- KPI Monitoring Framework
+
+### Key Findings
+
+| Finding | Result |
+|----------|----------|
+| Top Categories | 48.45% Revenue |
+| Sales Growth | +28.5% |
+| Customer Rating | 4.0 / 5 |
+| Delivery Success | 99% |
 
 </details>
 
 ---
 
-## 📊 Dashboard Gallery
+## 🧠 Research & Forecasting
 
-<table>
+### Master's Research
 
-<tr>
+Commodity Price Forecasting using:
 
-<td width="50%">
-<img src="LOGISTIC DASHBOARD.png">
-</td>
+- LSTM
+- CNN
+- Hybrid Deep Learning Models
+- Event-Aware Prediction Systems
 
-<td width="50%">
-<img src="walmart_Dashboard.png">
-</td>
+### Research Focus
 
-</tr>
-
-<tr>
-
-<td width="50%">
-<img src="Ecommerce_dashboard.png">
-</td>
-
-</tr>
-
-</table>
+- Time Series Forecasting
+- Deep Learning
+- Feature Engineering
+- Event Impact Analysis
+- Commodity Markets
 
 ---
 
-## 🔬 Master's Research
-
-### Commodity Price Forecasting using Deep Learning
-
-Research Focus:
-
-- LSTM Networks
-- CNN Models
-- Event-Aware Forecasting
-- Time-Series Analysis
-- Commodity Price Prediction
-
-Current Work:
-
-Developing forecasting models that integrate external events into commodity price prediction systems.
-
----
-
-## 📚 Education
+## 🎓 Education
 
 ### Master of Computer Science (Data Science)
 
-Damietta University | 2022 – Present
+Damietta University
 
-Research Area:
-
-Time-Series Forecasting & Deep Learning
+2022 – Present
 
 ### Bachelor of Computer Science
 
 Damietta University
 
-Top of Class 2022
-
-GPA: 3.34 / 4.0
+🏅 Top of Class 2022
 
 ---
 
@@ -244,30 +279,16 @@ GPA: 3.34 / 4.0
 
 ---
 
-## 📈 GitHub Statistics
+## 🤝 Let's Connect
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=mohammedkhafagy752000&show_icons=true"/>
+<a href="mailto:mohammedkhafagy045@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkhafagy752000&layout=compact"/>
+<a href="https://www.linkedin.com/in/mohammed-khafagy-7559aa272">
+<img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </p>
-
----
-
-## 🤝 Let's Connect
-
-📧 mohammedkhafagy045@gmail.com
-
-📱 +20 10 2739 2515
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/mohammed-khafagy-7559aa272
-
-💻 GitHub:
-https://github.com/mohammedkhafagy752000
-
----
