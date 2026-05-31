@@ -43,27 +43,23 @@ My work focuses on solving business problems through data architecture, automati
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,git,github,vscode" />
 
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
 
-<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="48" />
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.icons8.com/color/96/power-bi.png" width="48" />
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="48" />
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" />
 
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="48" />
 
 </p>
 
