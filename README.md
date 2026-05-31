@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Mohammed Khafagy</h1>
 
 <h3 align="center">
@@ -272,4 +271,3 @@ https://www.linkedin.com/in/mohammed-khafagy-7559aa272
 https://github.com/mohammedkhafagy752000
 
 ---
-```
