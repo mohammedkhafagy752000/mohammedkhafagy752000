@@ -1,6 +1,6 @@
 # Mohammed Khafagy
 
-**Data Warehouse Architect | SQL Specialist | Analytics Developer**
+**Data Analyst & BI specialist |ELT & ETL | SQL | Python | Power BI | MS Excel | Stremlit**
 
 📍 Damietta, Egypt | 📧 mohammedkhafagy045@gmail.com | 📱 +20 10 2739 2515
 
@@ -11,9 +11,39 @@
 
 ## 💡 About Me
 
-I design SQL Server data warehouses, build Python ETL pipelines, and develop real-time analytics systems. My focus: solving operational problems with schema architecture, query optimization, and automation—not just dashboards.
+Data professional focused on designing and implementing end-to-end data solutions that transform raw operational data into reliable, decision-ready systems.
 
-**Core Expertise:** Star Schema Design • Window Functions & CTEs • ETL Pipelines • Real-Time BI • Performance Optimization
+I specialize in building **SQL Server data warehouses**, developing **Python ETL pipelines**, and creating analytics workflows that connect data engineering with business intelligence.
+
+My focus is not just reporting or dashboards, but building **clean, scalable, and trustworthy data layers** that support accurate analysis and real business decisions.
+
+---
+
+## 🧠 Core Expertise
+
+- 🏗️ Data Warehouse Design (Star Schema Modeling)
+- 🐍 Python ETL Pipelines (Pandas, SQLAlchemy)
+- 🗄️ SQL Server (CTEs, Window Functions, Query Optimization)
+- 🧹 Data Cleaning & Data Quality Engineering
+- ⚡ Analytics Pipeline Automation
+- 📊 Business Intelligence Systems (End-to-End)
+
+---
+
+## 🎯 Focus Areas
+
+- Turning raw transactional data into structured analytical systems  
+- Optimizing SQL queries for performance and scalability  
+- Building reproducible ETL workflows  
+- Designing data models that support decision-making, not just reporting  
+
+---
+
+## 🚀 Philosophy
+
+> “A dashboard is only as good as the data pipeline behind it.”
+
+I focus on building the foundation first — because without reliable data, no visualization or insight is meaningful.
 
 ---
 
@@ -51,6 +81,12 @@ Through deep SQL analysis, I identified that the average detention time (time be
 | **Incident Costs** | $840K+ from 60 incidents | ROI on driver training program justified |
 | **Regional Concentration** | Texas & Washington = highest revenue | Geographic expansion into underserved regions |
 | **Profitability Anomaly** | 67% profit ratio (unusual) | Possible incomplete cost allocation; deeper audit needed |
+
+**Dashboard Preview:**
+
+<p align="center">
+  <img src="LOGISTIC DASHBOARD.png" width="1000" alt="Logistics Analytics Dashboard">
+</p>
 
 **Business Value:**
 - Root cause identified (warehouse, not routing) enables targeted operational fix
@@ -151,7 +187,7 @@ E-commerce platform with 54,000 orders ($7.4M revenue) lacked integrated analyti
 **Dashboard Preview:**
 
 <p align="center">
-  <img src="Ecommerce_Dashboard.png" width="1000" alt="E-Commerce Power BI Dashboard">
+  <img src="Ecommerce_dashboard.png" width="1000" alt="E-Commerce Power BI Dashboard">
 </p>
 
 **Features:** Category performance ranking • Regional sales heatmap • Growth trend analysis • Payment method breakdown • Delivery efficiency metrics
@@ -180,7 +216,7 @@ Complete BI pipeline: Raw data → Star Schema → Power BI dashboard. Demonstra
 - **Hybrid Architecture:** Combines domain expertise (lagged prices, trading volume) with deep learning
 
 **Technical Approach:**
-- Feature Engineering: Time-based lags, rolling averages, event-based signals
+- Feature Engineering: Time-based lags, event-based signals
 - Evaluation Metrics: MAE, RMSE, MAPE for forecast accuracy assessment
 - Validation Strategy: Time-series split (avoid future data leakage)
 - Implementation: Python + TensorFlow/Keras
@@ -251,20 +287,6 @@ Damietta University | GPA: 3.34/4.0 | **Top of Class 2022**
 - **Power BI** – 365 Data Science (Nov 2024)
 - **Exploratory Data Analysis in Python** – DataCamp (Nov 2024)
 - **Python for Data Science** – Coursera (Aug 2024)
-
----
-
-## 📊 Portfolio Summary
-
-| Metric | Value |
-|--------|-------|
-| **Data Analyzed** | 54K orders + 9,969 transactions + logistics trips |
-| **Revenue Tracked** | $7.4M + $1.21M = $8.61M+ |
-| **Databases Designed** | 3 (E-Commerce DW, Logistics DW, Walmart SQL Server) |
-| **SQL Techniques** | Window Functions, CTEs, PIVOT, Star Schema, SCD Type 2 |
-| **BI Systems Built** | Power BI dashboard + Streamlit real-time app |
-| **Key Insights** | Root causes identified (logistics detention, retail peaks, revenue drivers) |
-
 ---
 
 ## 👋 Let's Connect
