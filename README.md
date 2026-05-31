@@ -43,7 +43,7 @@ My work focuses on solving business problems through data architecture, automati
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,github,vscode" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
 
