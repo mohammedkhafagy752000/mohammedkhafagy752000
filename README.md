@@ -1,5 +1,5 @@
 <h2 align="center">
-# Mohammed Khafagy
+ Mohammed Khafagy
 </h2>
 <h3 align="center">
 Data Analyst • BI Developer • Data Warehouse Engineer
