@@ -2,9 +2,8 @@
  Mohammed Khafagy
 </h2>
 <h3 align="center">
-Data Analyst • BI Developer • Data Warehouse Engineer
+Data Analyst & BI Developer | Building ETL/ELT Pipelines, Data Warehouses, and Business Intelligence Solutions using SQL Server, Python, Power BI & Excel
 </h3>
-
 <p align="center">
 📍 Damietta, Egypt &nbsp;|&nbsp;
 📧 mohammedkhafagy045@gmail.com &nbsp;|&nbsp;
