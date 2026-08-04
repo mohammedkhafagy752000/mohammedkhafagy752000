@@ -231,7 +231,7 @@ Built:
 # 🏅 Retail Sales Dashboard
 
 <p align="center">
-<img src="Retail_Dashboard_Cover.png" width="1000">
+<img src="Retail Dashboard.png" width="1000">
 </p>
 
 ### Business Impact
@@ -290,7 +290,7 @@ Built:
 | Top Customer | Tricia Taylor ($25.5K) |
 
 </details>
----
+
 ## 🧠 Research & Forecasting
 
 ### Master's Research
