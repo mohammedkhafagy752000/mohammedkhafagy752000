@@ -226,7 +226,71 @@ Built:
 </details>
 
 ---
+---
 
+# 🏅 Retail Sales Dashboard
+
+<p align="center">
+<img src="Retail_Dashboard_Cover.png" width="1000">
+</p>
+
+### Business Impact
+
+✅ Built an interactive Executive Dashboard for business performance monitoring
+
+✅ Implemented dynamic **Year-to-Date (YTD)** analysis with **Same Period Last Year (SPLY)** comparison
+
+✅ Identified the highest-performing product categories, customers, and sales channels
+
+✅ Delivered business insights to support sales strategy and decision-making
+
+### Technologies
+
+`Microsoft Excel`
+`Power Pivot`
+`DAX`
+`Pivot Tables`
+`Pivot Charts`
+`Time Intelligence`
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+### Business Problem
+
+Business stakeholders lacked a centralized reporting solution to monitor sales performance and identify revenue drivers across products, customers, and regions.
+
+### Solution
+
+Built:
+
+- Interactive Executive Dashboard
+- Sales Analysis Dashboard
+- Dynamic KPI Cards
+- Time Intelligence Framework (YTD vs SPLY)
+- Interactive Slicers
+- Business Reporting Layer
+
+### Key KPIs
+
+| KPI | Result |
+|----------|----------:|
+| Revenue | **$1.04M** |
+| Cost | **$430.8K** |
+| Profit | **$608.5K** |
+| Orders | **498** |
+
+### Key Findings
+
+| Finding | Result |
+|----------|----------|
+| Largest Category | Computers (49%) |
+| Highest Revenue Channel | Online ($285.8K) |
+| Top Product | Adventure Works Desktop PC2.33 ($27.1K) |
+| Top Customer | Tricia Taylor ($25.5K) |
+
+</details>
+---
 ## 🧠 Research & Forecasting
 
 ### Master's Research
